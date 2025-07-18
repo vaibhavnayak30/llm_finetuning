@@ -1,0 +1,39 @@
+# Python specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-arg.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+pytest.ini
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook specific ignores
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE specific ignores (add as needed)
+.idea/          # PyCharm
+.vscode/        # VS Code
+*.iml           # IntelliJ
+.project        # Eclipse
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Cache directory
+cache/
