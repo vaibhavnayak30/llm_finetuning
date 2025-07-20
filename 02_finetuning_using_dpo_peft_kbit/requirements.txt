@@ -1,9 +1,0 @@
-flash_attn==2.8.1
-torch==2.4.0+cu124
-transformers==4.53.2
-peft==0.10.0
-datasets==3.2.0
-trl==0.19.1
-huggingface-hub==0.33.4
-accelerate==1.8.1
-bitsandbytes==0.43.3
