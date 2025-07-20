@@ -20,11 +20,11 @@ pytest.ini
 # Jupyter Notebook specific ignores
 .ipynb_checkpoints/
 
-# IDE specific ignores (add as needed)
-.idea/          # PyCharm
-.vscode/        # VS Code
-*.iml           # IntelliJ
-.project        # Eclipse
+# IDE specific ignores
+.idea/         
+.vscode/        
+*.iml           
+.project        
 .classpath
 .settings/
 
