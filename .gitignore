@@ -19,7 +19,6 @@ pytest.ini
 
 # Jupyter Notebook specific ignores
 .ipynb_checkpoints/
-*.ipynb
 
 # IDE specific ignores (add as needed)
 .idea/          # PyCharm
