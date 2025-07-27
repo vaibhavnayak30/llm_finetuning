@@ -36,3 +36,5 @@ Thumbs.db
 
 # Cache directory
 cache/
+logs/
+*results/
